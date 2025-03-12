@@ -10,7 +10,6 @@ The city population and coordinates data is available here: [https://gist.github
 ##  Output
 The calculations were used as part of a data journalism project. You can see the full project here: https://aldjhome.substack.com/p/where-exactly-are-the-nuclear-power
 ![lwOr7- (4)](https://github.com/user-attachments/assets/4020dfeb-2f6e-4a64-b0d4-1429e15d861f)
-![fiM75- (1)](https://github.com/user-attachments/assets/7f3cb435-5fd2-4a2c-b449-4ea1ddda7c63)
 ![26XF6-collie-is-the-nuclear-site-closest-to-a-metropolitan-area (2)](https://github.com/user-attachments/assets/7f464b06-1404-4518-a8ab-f48019b5c82b)
 
 
